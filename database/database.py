@@ -58,6 +58,6 @@ async def del_thumb(id):
 async def get_thumb(id):
     try:
         t = SESSION.query(Thumbnail).get(id)
-        return t
+        return 
     finally:
         SESSION.close()
