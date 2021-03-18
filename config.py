@@ -1,4 +1,4 @@
-import os
+Uuimport os
 
 class Config(object):
     # get a token from https://chatbase.com
@@ -35,5 +35,5 @@ class Config(object):
     # watermark file
     DEF_WATER_MARK_FILE = ""
     # Database url
-    DB_URI = "postgres://oqiduccfagetkw:4bb74226e56c2811a4d6b58cc93365bbea954322b46cb9ed44fe308203c7c547@ec2-52-73-199-211.compute-1.amazonaws.com:5432/d1sd9qjprrijed"
+    DB_URI = "mongodb+srv://user1:user@cluster0.uwhes.mongodb.net"
     
