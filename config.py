@@ -1,4 +1,4 @@
-Uuimport os
+import os
 
 class Config(object):
     # get a token from https://chatbase.com
