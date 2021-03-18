@@ -10,3 +10,4 @@ tgcrypto
 sqlalchemy
 psycopg2-binary
 feedparser
+https://files.pythonhosted.org/packages/86/7f/47f404eae0286669a02bd929c220bca6fadf63d38672c935075885b2026a/asynczip-1.0.7.tar.gz
