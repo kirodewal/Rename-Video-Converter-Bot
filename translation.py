@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """ <b> Hi {} , I'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail support!💯</b> \n
 
-<b>Bot Maintained By: @Kirodewal</b> \n
+<b>Bot Maintained By: @HxBots</b> \n
 <b>Do /help for more...</b> \n
 """
 
@@ -12,7 +12,7 @@ class Translation(object):
     DOWNLOAD_START = "<b>Downloading To My server !! pls Wait</b>"
     UPLOAD_START = "<b>Downloading Completed Now I'm Uploading Into TG</b>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me JOin > @HindiXstream  ❤️**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me JOin > @HxBots  ❤️**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "CONTACT @Kirodewal "
     NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @Kirodewal "
@@ -23,7 +23,7 @@ class Translation(object):
     REPLY_TO_DOC_FOR_RENAME_FILE = "<b>Please Reply To An File With /rename fil name extension To rename a file</b>"
     REPLY_TO_DOC_FOR_C2V = "<b> Please Reply To An File With /c2v To Convert It Into Streamable video File</b>"
     REPLY_TO_DOC_FOR_C2A = "<b> Please Reply To An File/video With /c2a To Convert It Into Audio File</b>"
-    CUSTOM_CAPTION_UL_FILE = " "
+    CUSTOM_CAPTION_UL_FILE = " Join Update Channel @HxBots"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Thumbnail found,SED🤒"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
