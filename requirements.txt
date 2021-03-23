@@ -1,4 +1,5 @@
 aiohttp
+asyncio
 beautifulsoup4
 git+git://github.com/google/chatbase-python.git
 hachoir
