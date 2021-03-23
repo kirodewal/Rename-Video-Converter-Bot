@@ -4,6 +4,9 @@
 
 # the logging things
 import logging
+import os
+os.environ['PYTHONASYNCIODEBUG'] = '1'
+import asyncio
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
